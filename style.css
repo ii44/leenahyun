@@ -137,12 +137,17 @@ display: block;
 }
 .worklist_grid{
   padding: 10px;
+  background-color: beige;
   border-bottom: 1px black solid;
  margin: 0;
  text-align: center;
  display: block;
 
 
+}
+.worklist_grid a:hover{
+  color: blue;
+  
 }
 .worklist2{
   
@@ -231,8 +236,16 @@ ul li{
 
 .worklist{
   padding: 50px 0 10px;
+  margin: 0 10px 0 10px;
+}
+.worklist2{
+  margin-left: 10px;
+}
+.worklist_grid{
+  margin-right: 10px;
 }
 
 
  }
+ 
  
