@@ -176,7 +176,13 @@ margin: 0;
   display: grid;
   grid-template-columns: 150px 1fr;
 }
-
+footer{
+  height: 30px;
+  position: fixed;
+  text-align: right;
+  
+  left: 0; width: 98%; bottom: 0; 
+}
  @media screen and (max-width: 768px) {
   .grid{ 
    
