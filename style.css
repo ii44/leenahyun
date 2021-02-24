@@ -181,7 +181,7 @@ footer{
   position: fixed;
   text-align: right;
   
-  left: 0; width: 98%; bottom: 0; 
+  left: 0; width: 99%; bottom: 0; 
 }
  @media screen and (max-width: 768px) {
   .grid{ 
