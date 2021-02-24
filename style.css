@@ -33,8 +33,7 @@ a{
 h2{
     font-size:17px;
     font-weight: bold;
-    margin-top: 10px;
-    margin-left: 10px;
+    margin: 10px 0 10px 10px;
   
     display:inline-block;
   background-color: ghostwhite;
